@@ -165,12 +165,8 @@ It is suitable as:
 * a portfolio example of engineering thinking
 
 ## Author
-
-<<<<<<< HEAD
-**XCON | RX**
-=======
 **End1essspace | RX**
->>>>>>> bc409b8 (update)
+
 TG: [@End1essspace](https://t.me/End1essspace)
 GitHub: [End1essspace](https://github.com/End1essspace)
 
